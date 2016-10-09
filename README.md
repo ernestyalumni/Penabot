@@ -39,5 +39,5 @@ Keeping track of time I use and focus or waste helped me change my behavior for 
 
 "Dealing with the epically aggressive schedules and Musk's expectations has required SpaceX's engineers to develop a variety of survival techniques.  Musk often asks for highly detailed proposals for how projects will be accomplished.  The employees have learned never to break the time needed to accomplish something down into months or weeks.  Musk wants day-by-day and hour-by-hour forecasts and sometimes even minute-by-minute countdowns, and the fallout from missed schedules is severe.  "You had to put in when you would go to the bathroom," Brogran said. "I'm like, 'Elon, sometimes people need to take a long dump.'"
 
-![TARS][https://s-media-cache-ak0.pinimg.com/originals/87/f4/0b/87f40ba43f5ef1f31e14b5622eb2fa76.jpg]
+![TARS](https://s-media-cache-ak0.pinimg.com/originals/87/f4/0b/87f40ba43f5ef1f31e14b5622eb2fa76.jpg)
 
